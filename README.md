@@ -1,4 +1,4 @@
-## ![](./assets//img//0001.png)
+## ![](./assets//img/0001.png)
 ### Hi there 👋
 
 <!--
